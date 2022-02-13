@@ -1,0 +1,15 @@
+.sidebar_row{
+    background: none!important;
+
+}
+.sidebar_row svg{
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    padding: 8px;
+    transition: all 1s;
+}
+.sidebar_row.svgIcon svg{
+    background:#5333ED;
+
+}
